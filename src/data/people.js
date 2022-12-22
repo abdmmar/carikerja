@@ -551,4 +551,32 @@ export default [
     tech_stack: ["ReactJs", "Typescript"],
     hired: true,
   },
+  {
+    name: "Abdullah Ammar",
+    status: "Fulltime, Remote",
+    role: "Frontend Engineer",
+    location: "Jakarta, Indonesia",
+    social_media: {
+      Linkedin: "https://www.linkedin.com/in/abdmmar",
+      Github: "https://github.com/abdmmar",
+    },
+    tech_stack: [
+      "React", 
+      "JavaScript",
+      "TypeScript",
+      "CSS", 
+      "HTML", 
+      "Slate",
+      "Apollo",
+      "GraphQL",
+      "styled-components",
+      "Node.js",
+      "Jest", 
+      "Vite",
+      "Preact",
+      "Webpack",
+      "Next.js"
+    ],
+    hired: false,
+  },
 ];
